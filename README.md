@@ -1,13 +1,13 @@
 # Hi, I'm Max 👋🏼
 
-🎯 **Passionate FinTech Developer | Building tools for smarter finance**
+🎯 **Information Systems Student @uzh**
 
 - 🛠️ **Currently working on**: [Project 1](coming soon)
 - 🔍 **Learning**: React, Next.js, Financial APIs, PostgreSQL
 - 💡 **Interested in**: FinTech.
 
 📫 **Contact**:  
-✉️ [yourname@email.com](mailto:max.bloechlinger.job@gmail.com)  
+✉️ [max.bloechlinger.job@gmail.com](mailto:max.bloechlinger.job@gmail.com)  
 🌐 [LinkedIn](coming soon) 
 🔗 [Portfolio](coming soon)
 
