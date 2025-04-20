@@ -1,6 +1,6 @@
 # Hi, I'm Max 👋🏼
 
-🎯 **Information Systems Student @uzh**
+🎯 **Information Systems tudent @uzh**
 
 - 🛠️ **Currently working on**: [Project 1](coming soon)
 - 🔍 **Learning**: React, Next.js, Financial APIs, PostgreSQL
