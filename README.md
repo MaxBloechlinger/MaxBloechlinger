@@ -4,7 +4,7 @@
 
 - 🛠️ **Currently working on**: [Project 1](coming soon)
 - 🔍 **Learning**: React, Next.js, Financial APIs, PostgreSQL
-- 💡 **Interested in**: FinTech.
+- 💡 **Interested in**: 
 
 📫 **Contact**:  
 ✉️ [max.bloechlinger.job@gmail.com](mailto:max.bloechlinger.job@gmail.com)  
