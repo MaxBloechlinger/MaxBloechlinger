@@ -8,7 +8,7 @@
 
 📫 **Contact**:  
 ✉️ [max.bloechlinger.job@gmail.com](mailto:max.bloechlinger.job@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/max-bl%C3%B6chlinger/)
+🌐 [LinkedIn](https://www.linkedin.com/in/max-bloechlinger/)
 🔗 [Portfolio](coming soon)
 
 ---
