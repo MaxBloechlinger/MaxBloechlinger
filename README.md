@@ -2,28 +2,29 @@
 
 🎯 **Information Systems @ UZH**
 
-- 🛠️ **Currently working on**: [Project 1](coming soon)
-- 🔍 **Learning**: React, Next.js, Financial APIs, PostgreSQL
-- 💡 **Interested in**: 
+- 🛠️ **Currently working on**: [athlete-linkedin-clone](https://github.com/MaxBloechlinger/athlete-linkedin-clone)
+- 🔍 **Learning**: React, Next.js, python for AI
+- 💡 **Interested in**: Web Dev & AI
 
 📫 **Contact**:  
 ✉️ [max.bloechlinger.job@gmail.com](mailto:max.bloechlinger.job@gmail.com)  
-🌐 [LinkedIn](coming soon) 
+🌐 [LinkedIn](https://www.linkedin.com/in/max-bl%C3%B6chlinger-236268364/) 
 🔗 [Portfolio](coming soon)
 
 ---
 
 ## About Me
-My main focus is on **FinTech**.
+My main focus is on **Web Development**.
 
 ## Languages
+- Javascript
 - Python
-- C 
+- C
+  
 
 ## Projects
 Here are a couple of my projects:
-- [Project 1] - A smart budgeting app to help users track expenses.
-- [Project 2] - A real-time stock tracker using financial APIs.
+- [athlete-linkedin-clone](https://github.com/MaxBloechlinger/athlete-linkedin-clone) -  A LinkedIn clone aimed at connecting athletes, allowing them to share training updates, achievements, and career milestones. Built with React, Vite, Firebase, and custom Sass styling. Includes authentication, a real-time feed, and modular components for scalability.
 
 ---
 
