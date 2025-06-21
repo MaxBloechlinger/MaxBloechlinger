@@ -17,7 +17,7 @@
 My main focus is on **Web Development**.
 
 ## Languages
-- Javascript
+- Javascript, JSX & TypeScript
 - Python
 - C
   
