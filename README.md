@@ -11,7 +11,7 @@
 ---
 
 ## About Me
-My main focus is on **Web Development**.
+My main focus is on **Web Development** (full-stack)
 
 ## Languages
 - Javascript, JSX & TypeScript
