@@ -1,12 +1,12 @@
 **Information Systems @ UZH**
 
-- 🔍 **Learning**: React, Next.js, python for AI
+- 🔍 **Learning**: React, TypeScript, Go
 - 💡 **Interested in**: Web Dev & AI
 
 📫 **Contact**:  
 ✉️ [max.bloechlinger.job@gmail.com](mailto:max.bloechlinger.job@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/max-bloechlinger/)
-🔗 [Portfolio](-)
+
 
 ---
 
@@ -14,8 +14,8 @@
 My main focus is on **Web Development** (full-stack)
 
 ## Languages
-- Javascript, JSX & TypeScript
-- Python, Go
+- Javascript, TypeScript
+- Python, Go, SQL
 - C
 
 ---
