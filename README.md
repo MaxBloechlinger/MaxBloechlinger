@@ -1,21 +1,17 @@
-**Information Systems @ UZH**
+**Information Systems @ University of Zurich**
 
-- 🔍 **Learning**: React, TypeScript, Go
-- 💡 **Interested in**: Web Dev & AI
-
-📫 **Contact**:  
-✉️ [max.bloechlinger.job@gmail.com](mailto:max.bloechlinger.job@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/max-bloechlinger/)
-
+- **Learning**: React, Firebase, PostgreSQL, TypeScript
+- **Interested in**: Web Dev & AI
 
 ---
 
 ## About Me
-My main focus is on **Web Development** (full-stack)
+I'm a Bachelor Student at UZH. (Major: Information Systems, Minor: Software Systems)
+My main focus is on **Web Development** (full-stack). 
 
 ## Languages
 - Javascript, TypeScript
-- Python, Go, SQL
+- Python, SQL
 - C
 
 ---
