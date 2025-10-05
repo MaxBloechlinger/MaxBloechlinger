@@ -2,13 +2,13 @@
 
 ---
 
-## About Me
-
 I'm a Bachelor Student at UZH. (Major: Information Systems, Minor: Software Systems)
 
 ---
 
 Currently Building NETHLETE.
+
+New Projects soon...
 
 ---
 
