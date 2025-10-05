@@ -1,14 +1,15 @@
-**Hi, I'm Max**
+**Hi, I'm Max (*^‿^*)**
 
 ---
 
 I'm a Bachelor Student at UZH. (Major: Information Systems, Minor: Software Systems)
+Interests: Web Dev, Game Dev, ai, IoT stuff
 
----
+Projects:
 
-Currently Building NETHLETE.
+-Currently Building NETHLETE.
 
-New Projects soon...
+More Projects coming soon...
 
 ---
 
