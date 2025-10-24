@@ -8,7 +8,7 @@ Interests: Web Dev, Game Dev, ai, IoT stuff
 
 Projects:
 
--Currently Building NETHLETE.
+-Currently Building secret.
 
 More Projects coming soon...
 
