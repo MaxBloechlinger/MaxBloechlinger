@@ -8,7 +8,7 @@ Interests: Web Dev, Game Dev, ai, IoT stuff
 
 Projects:
 
--Currently Building secret.
+-Currently Building TBA.
 
 More Projects coming soon...
 
