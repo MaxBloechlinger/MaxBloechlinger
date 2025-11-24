@@ -8,15 +8,15 @@ Interests: Web Dev, Game Dev, ai, IoT stuff
 
 Projects:
 
--Currently Building Stealht Startup.
+- Currently Building Stealth Startup [Social Network App].
 
 More Projects coming soon...
 
 ---
 Languages & Technical Knowledge:
-•	Python, C & Java (university level)
-•	JavaScript & TypeScript (self-taught)
-•	React, Firebase, SQL (self-taught)
+- Python, C & Java (university level)
+- JavaScript & TypeScript (self-taught)
+- React, Firebase, SQL (self-taught)
 
 ---
 Thanks for visiting my profile! Have a nice day :)
