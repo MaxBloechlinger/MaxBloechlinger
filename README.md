@@ -1,4 +1,4 @@
-**Hi, I'm Max (*^‿^*)**
+**Hi, I'm Max**
 
 ---
 
@@ -8,11 +8,16 @@ Interests: Web Dev, Game Dev, ai, IoT stuff
 
 Projects:
 
--Currently Building TBA.
+-Currently Building Stealht Startup.
 
 More Projects coming soon...
 
 ---
+Languages & Technical Knowledge:
+•	Python, C & Java (university level)
+•	JavaScript & TypeScript (self-taught)
+•	React, Firebase, SQL (self-taught)
 
+---
 Thanks for visiting my profile! Have a nice day :)
 
