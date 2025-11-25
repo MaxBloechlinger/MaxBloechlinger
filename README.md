@@ -4,7 +4,7 @@
 
 I'm a Bachelor Student at UZH. (Major: Information Systems, Minor: Software Systems)
 
-Interests: Web Dev, Game Dev, ai, IoT stuff
+Interests: Web Dev, Game Dev, Fin Tech, ai, IoT stuff
 
 Projects:
 
