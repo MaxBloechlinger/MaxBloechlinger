@@ -1,7 +1,7 @@
 **Hi, I'm Max**
 
 ---
-Webiste: [Building it right now!]
+Website: [Building it right now!]
 
 I'm a Bachelor Student at UZH. (Major: Information Systems, Minor: Software Systems)
 
