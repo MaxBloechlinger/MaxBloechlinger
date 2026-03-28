@@ -1,5 +1,3 @@
-**Hi, I'm Max**
-
 ---
 Website: (WIP)
 
