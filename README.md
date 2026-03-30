@@ -16,7 +16,7 @@ Projects:
 Experienced in:
 - Python, C & Java
 - JavaScript & TypeScript
-- React, Firebase, SQL 
+- React, Node, Next.js, Firebase, SQL 
 
 ---
 Have a nice day :)
