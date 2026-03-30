@@ -13,10 +13,10 @@ Projects:
 - HTTP-Server (WIP): [Link](https://github.com/MaxBloechlinger/http-server)
   
 ---
-Languages:
-- Python, C & Java (university)
-- JavaScript & TypeScript (self-taught)
-- React, Firebase, SQL (self-taught)
+Experienced in:
+- Python, C & Java
+- JavaScript & TypeScript
+- React, Firebase, SQL 
 
 ---
 Have a nice day :)
