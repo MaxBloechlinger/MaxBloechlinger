@@ -19,5 +19,4 @@ Experienced in:
 - React, Node, Next.js, Firebase, SQL 
 
 ---
-Have a nice day :)
 
