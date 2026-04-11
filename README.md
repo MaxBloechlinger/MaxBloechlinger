@@ -1,6 +1,6 @@
 
 ---
-Website: (WIP)
+Website: [Link](https://github.com/MaxBloechlinger/website)
 
 I'm a Bachelor Student at UZH. (Major: Information Systems, Minor: Software Systems)
 
