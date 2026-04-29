@@ -11,7 +11,6 @@ Projects:
 - Python Asteroids Game made with Pygame: [Link](https://github.com/MaxBloechlinger/asteroids)
 - Full-Stack React App for ai-generated coding questions: [Link](https://github.com/MaxBloechlinger/naga)
 - HTTP-Server (WIP): [Link](https://github.com/MaxBloechlinger/http-server)
-- Black Jack Browser Game: [Link](https://github.com/MaxBloechlinger/black-jack)
 ---
 Experienced in:
 - Python, C & Java
