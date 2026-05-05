@@ -5,8 +5,8 @@ Website: [Link](https://github.com/MaxBloechlinger/website)
 I'm a Bachelor Student at UZH. (Major: Information Systems, Minor: Software Systems)
 
 Projects:
-
-- Currently Building [NETHLETE](https://nethlete.vercel.app/) (Social Network App for Athletes).
+- Multi-destination trip Planner [Link](https://github.com/MaxBloechlinger/journey)
+- Social Network App for Athletes [Link](https://nethlete.vercel.app/)
 - Aleks Pi Voice Assistant built for Raspberry Pi [Link](https://github.com/MaxBloechlinger/aleks)
 - Python Asteroids Game made with Pygame: [Link](https://github.com/MaxBloechlinger/asteroids)
 - Full-Stack React App for ai-generated coding questions: [Link](https://github.com/MaxBloechlinger/naga)
