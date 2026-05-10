@@ -5,7 +5,7 @@ Website: [Link](https://github.com/MaxBloechlinger/website)
 I'm a Bachelor Student at UZH. (Major: Information Systems, Minor: Software Systems)
 
 Projects:
-- Multi-destination trip planner [Link](https://github.com/MaxBloechlinger/journey)
+- Multi-destination trip planner [Link](https://journey-ochre-iota.vercel.app/)
 - Social Network App for Athletes [Link](https://nethlete.vercel.app/)
 - Aleks Pi Voice Assistant built for Raspberry Pi [Link](https://github.com/MaxBloechlinger/aleks)
 - Python Asteroids Game made with Pygame: [Link](https://github.com/MaxBloechlinger/asteroids)
