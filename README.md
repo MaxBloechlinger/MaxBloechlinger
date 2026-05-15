@@ -15,7 +15,8 @@ Projects:
 Experienced in:
 - Python, C & Java
 - JavaScript & TypeScript, Tailwind
-- React, Node, Next.js, Firebase, SQL 
+- React, Node, Next.js,
+- Supabase, Firebase, PostgreSQL 
 
 ---
 
