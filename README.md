@@ -1,6 +1,6 @@
 
 ---
-Website: [Link](https://github.com/MaxBloechlinger/website)
+Website: [Link](https://website-pi-gold-20.vercel.app/)
 
 I'm a Bachelor Student at UZH. (Major: Information Systems, Minor: Software Systems)
 
