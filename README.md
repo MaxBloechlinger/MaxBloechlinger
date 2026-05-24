@@ -9,8 +9,7 @@ Projects:
 - Nethlete, Social Network App for Athletes [Link](https://nethlete.vercel.app/)
 - Aleks Pi Voice Assistant built for Raspberry Pi [Link](https://github.com/MaxBloechlinger/aleks)
 - Python Asteroids Game made with Pygame: [Link](https://github.com/MaxBloechlinger/asteroids)
-- Full-Stack React App for ai-generated coding questions: [Link](https://github.com/MaxBloechlinger/naga)
-- HTTP-Server (WIP): [Link](https://github.com/MaxBloechlinger/http-server)
+- Naga, React App for ai-generated coding questions: [Link](https://github.com/MaxBloechlinger/naga)
 ---
 Experienced in:
 - Python, C & Java
