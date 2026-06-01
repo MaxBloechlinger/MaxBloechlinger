@@ -8,6 +8,7 @@ Projects:
 - Journey, trip planner [Link](https://journey-ochre-iota.vercel.app/)
 - Nethlete, Social Network App for Athletes [Link](https://nethlete.vercel.app/)
 - Aleks Pi, Voice Assistant built for Raspberry Pi [Link](https://github.com/MaxBloechlinger/aleks)
+- Landing Page for renting a farm [Link](https://github.com/MaxBloechlinger/scheune)
 - Python Asteroids Game made with Pygame: [Link](https://github.com/MaxBloechlinger/asteroids)
 - Naga, React App for ai-generated coding questions: [Link](https://github.com/MaxBloechlinger/naga)
 ---
