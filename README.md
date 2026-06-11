@@ -7,6 +7,7 @@ I'm a Bachelor Student at UZH. (Major: Information Systems, Minor: Software Syst
 Projects:
 - Journey, trip planner [Link](https://journey-ochre-iota.vercel.app/)
 - Nethlete, Social Network App for Athletes [Link](https://nethlete.vercel.app/)
+- Scheune, Professional Landing Page for renting a barn in Switzerland [Link](https://scheune.vercel.app/)
 - Aleks Pi, Voice Assistant built for Raspberry Pi [Link](https://github.com/MaxBloechlinger/aleks)
 - Landing Page for renting a farm [Link](https://github.com/MaxBloechlinger/scheune)
 - Python Asteroids Game made with Pygame: [Link](https://github.com/MaxBloechlinger/asteroids)
