@@ -12,9 +12,9 @@ Projects:
 - Landing Page for renting a farm [Link](https://github.com/MaxBloechlinger/scheune)
 - Python Asteroids Game made with Pygame: [Link](https://github.com/MaxBloechlinger/asteroids)
 - Naga, React App for ai-generated coding questions: [Link](https://github.com/MaxBloechlinger/naga)
----
+
 University Repos:
--Software Construction, 3 Projects (Virtual File System, Interpreter, Smart House Management) [Link](https://github.com/MaxBloechlinger/hs25_soco-group_069)
+- Software Construction, 3 Projects (Virtual File System, Interpreter, Smart House Management) [Link](https://github.com/MaxBloechlinger/hs25_soco-group_069)
 ---
 Experienced in:
 - Python, C & Java
